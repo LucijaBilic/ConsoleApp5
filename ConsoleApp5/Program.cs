@@ -11,6 +11,9 @@ namespace ConsoleApp5
             Console.WriteLine("Novo");
             Console.WriteLine("Novo");
             Console.WriteLine("Novo");
+            Console.WriteLine("Novo1");
+            //komentar, dodana nova linija
+
 
         }
     }
