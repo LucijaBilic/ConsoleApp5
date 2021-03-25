@@ -7,6 +7,7 @@ namespace ConsoleApp5
     class NewClass
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -22,5 +23,9 @@ namespace ConsoleApp5
 =======
         
 >>>>>>> 1ea268b1b5033f5d99439ee2485c8427e9fb6f72
+=======
+        Console.WriteLine("Hello World!");
+         Console.WriteLine("Hehehe!");
+>>>>>>> 9c9fa8ab2564c9b751e76d256128fbcca2f84d1f
     }
 }
