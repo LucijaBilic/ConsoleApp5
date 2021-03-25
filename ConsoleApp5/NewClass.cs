@@ -6,6 +6,7 @@ namespace ConsoleApp5
 {
     class NewClass
     {
+<<<<<<< HEAD
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -16,7 +17,10 @@ namespace ConsoleApp5
             Console.WriteLine("Novo1");
             //komentar, dodana nova linija
 
-
+            Console.WriteLine("Hello World!");
         }
+=======
+        
+>>>>>>> 1ea268b1b5033f5d99439ee2485c8427e9fb6f72
     }
 }
