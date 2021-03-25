@@ -9,6 +9,9 @@ namespace ConsoleApp5
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Novo");
+            Console.WriteLine("Novo");
+
         }
     }
 }
